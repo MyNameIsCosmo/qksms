@@ -1,0 +1,114 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Disclaimer:\n\n\nThe current condition of the QKSms v2.x codebase is quite poor\n\n(I guess that's what happens when you start writing an app when you don't even know how to code yet)\n.\nI'm in the process of rebuilding the app from scratch using Kotlin - pull requests will not be accepted\nduring this time.\nFeel free to follow the progress here - \nhttps://github.com/moezbhatti/qksms/tree/qksms3\n\n\n\n\nQKSMS\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQKSMS is an open source replacement to the \nstock messaging app\n on Android. It is currently available on the Google Play Store.\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\u00b6\n\n\nQKSMS is developed and maintained by \nMoez Bhatti\n. Feel free to reach out to \nmoez@qklabs.com\n\n\nThank you\n\u00b6\n\n\nSpecial shoutout to Jake Klinker (\n@klinker41\n) for his work on \nandroid-smsmms\n, which has been an unspeakably large help in implementing MMS in QKSMS.\n\n\nLicense\n\u00b6\n\n\nQKSMS is released under the \nThe GNU General Public License v3.0 (GPLv3)\n, which can be found in the \nLICENSE\n file in the root of this project.",
+            "title": "Home"
+        },
+        {
+            "location": "/#qksms",
+            "text": "QKSMS is an open source replacement to the  stock messaging app  on Android. It is currently available on the Google Play Store.",
+            "title": "QKSMS"
+        },
+        {
+            "location": "/#contact",
+            "text": "QKSMS is developed and maintained by  Moez Bhatti . Feel free to reach out to  moez@qklabs.com",
+            "title": "Contact"
+        },
+        {
+            "location": "/#thank-you",
+            "text": "Special shoutout to Jake Klinker ( @klinker41 ) for his work on  android-smsmms , which has been an unspeakably large help in implementing MMS in QKSMS.",
+            "title": "Thank you"
+        },
+        {
+            "location": "/#license",
+            "text": "QKSMS is released under the  The GNU General Public License v3.0 (GPLv3) , which can be found in the  LICENSE  file in the root of this project.",
+            "title": "License"
+        },
+        {
+            "location": "/contributing/",
+            "text": "Contributing to QKSMS\n\u00b6\n\n\nWe highly encourage contributions to QKSMS; we want to make it as easy and streamlined as possible. If you have any suggestions on how we can improve our workflow, please feel free to contact me.\n\n\nQuite a bit of old code still needs to be cleaned up and refactored, so keep that in mind as you're digging through the source. If you find something that's just really crappy, let me know and I'll put it higher up on my list of stuff to clean up. I'll be focusing on improving code quality of existing code over the next couple weeks.\n\n\nCollaboration\n\u00b6\n\n\nWe use GitHub issues to keep track of bugs and feature requests, but we communicate using \nSlack\n. To join the Slack group, send an email to \nteam@qklabs.com\n with the subject \nQK Labs Slack Invite\n (no need to enter a body, we'll send an invite to your email address). If you plan on contributing at some point, we highly recommend joining the slack group because it gives you a direct way to communicate with the rest of the contributors.\n\n\nFunds\n\u00b6\n\n\nIf you'd like to donate to help support the project, you can donate via \nPayPal here\n.\n\n\nTranslations\n\u00b6\n\n\nPlease do not perform translations directly on the source files. Pull requests for translations will not be accepted. If you would like to do translations for QKSMS, join the translation project on Crowdin: \nhttps://crowdin.com/project/qksms\n.\n\n\nUnfortunately I don't always have time to check notifications on Crowdin. If you'd like something checked or approved, send me a message on Slack and then I'll take a look\n\n\nDevelopment\n\u00b6\n\n\nWe encourage you to make pull requests. Whenever you make one, we'll review the code and test it to make sure that it fits the code style guidelines, and achieves what the pull request intends. We'll discuss any problems or potential improvements, and we'll merge it when we're both (or any number of willing participants) happy with the code.\n\n\nIf you're new, we recommend that you look through the issues and try to fix some of the more simple sounding bugs to familiarize yourself with the codebase.\n\n\nIf you'd like to work on a new feature, please create an issue so we can discuss the idea together before implementation begins.\n\n\nTo learn about pull requests, please refer to the following guide: \nhttps://help.github.com/articles/using-pull-requests/\n.\n\n\nCode style\n\u00b6\n\n\nWe follow the code style guidelines set by Google for contributors to AOSP: \nhttps://source.android.com/source/code-style.html\n\n\nThe current codebase is far from being 100% at this standard, but updating existing code to follow the unified guidelines can be a good way to introduce yourself to the codebase and start getting familiar with it.\n\n\nAny new code written should follow these guidelines.\n\n\nBug Reports / Feature Requests\n\u00b6\n\n\nWe track issues and feature requests using GitHub issues. You can view existing issues and create your own here: \nhttps://github.com/moezbhatti/qksms/issues\n\n\nHow to help\n\u00b6\n\n\n\n\nReport bugs\n\n\nHelp reproduce bugs\n\n\nMake enhancement requests (it would be great if QKSMS...)\n\n\n\n\nReporting bugs\n\u00b6\n\n\nA great bug report contains a description of the problem and steps to reproduce the problem. We need to know what we're looking for and where to look for it. If the QKSMS team can't reproduce a bug, we will work with testers to fix the problem.\n\n\nBugs are given the red \nbug\n label. Bugs also may be given extra orange labels:\n\n\nneeds-info\n: We need a better description of the problem.\n\nneeds-repro\n: We need someone who can reproduce the issue consistently.\n\nneeds-review\n: We need someone to verify that the bug has been squashed.\n\n\nExample bug report submission\n\u00b6\n\n\n\n\nThis is a real bug as of the time of writing. Try reproducing it!\n\n\n\n\n### DESCRIPTION\nConversations aren't marked as read when they are opened from a notification.\n\n### STEPS\n1. Long press on a conversation and press \"Mark as unread\" to reveal a notification.\n2. Press the home button to put QKSMS in the background.\n3. Pull down on the notification to open the notification drawer.\n4. Tap on the body of the notification (not the buttons).\n5. Tap on the back button to reveal the conversation list.\n\n### EXPECTED\nThe conversation is marked as read.\n\n### OBSERVATIONS\nThe conversation isn't marked as read.\n\n\n\n\nHelping reproduce bugs\n\u00b6\n\n\nReproducing a bug is important, since if we can't reproduce an issue then it's hard to figure out what's going wrong, and we can't know that we've fixed it.\n\n\nYou can see bugs which need \"repro steps\" \nhere\n. If you see any bugs that you know how to reproduce (see above for example repro steps), then make a comment with the steps and we'll track the bug down!\n\n\nMaking enhancement requests\n\u00b6\n\n\nThere are no rules for enhancement requests. Your ideas are all awesome. Although we may not implement every suggestion, we love brainstorming with you and hearing your feedback.\n\n\nTo make an enhancement request, add an \"issue\".",
+            "title": "Contributing"
+        },
+        {
+            "location": "/contributing/#contributing-to-qksms",
+            "text": "We highly encourage contributions to QKSMS; we want to make it as easy and streamlined as possible. If you have any suggestions on how we can improve our workflow, please feel free to contact me.  Quite a bit of old code still needs to be cleaned up and refactored, so keep that in mind as you're digging through the source. If you find something that's just really crappy, let me know and I'll put it higher up on my list of stuff to clean up. I'll be focusing on improving code quality of existing code over the next couple weeks.",
+            "title": "Contributing to QKSMS"
+        },
+        {
+            "location": "/contributing/#collaboration",
+            "text": "We use GitHub issues to keep track of bugs and feature requests, but we communicate using  Slack . To join the Slack group, send an email to  team@qklabs.com  with the subject  QK Labs Slack Invite  (no need to enter a body, we'll send an invite to your email address). If you plan on contributing at some point, we highly recommend joining the slack group because it gives you a direct way to communicate with the rest of the contributors.",
+            "title": "Collaboration"
+        },
+        {
+            "location": "/contributing/#funds",
+            "text": "If you'd like to donate to help support the project, you can donate via  PayPal here .",
+            "title": "Funds"
+        },
+        {
+            "location": "/contributing/#translations",
+            "text": "Please do not perform translations directly on the source files. Pull requests for translations will not be accepted. If you would like to do translations for QKSMS, join the translation project on Crowdin:  https://crowdin.com/project/qksms .  Unfortunately I don't always have time to check notifications on Crowdin. If you'd like something checked or approved, send me a message on Slack and then I'll take a look",
+            "title": "Translations"
+        },
+        {
+            "location": "/contributing/#development",
+            "text": "We encourage you to make pull requests. Whenever you make one, we'll review the code and test it to make sure that it fits the code style guidelines, and achieves what the pull request intends. We'll discuss any problems or potential improvements, and we'll merge it when we're both (or any number of willing participants) happy with the code.  If you're new, we recommend that you look through the issues and try to fix some of the more simple sounding bugs to familiarize yourself with the codebase.  If you'd like to work on a new feature, please create an issue so we can discuss the idea together before implementation begins.  To learn about pull requests, please refer to the following guide:  https://help.github.com/articles/using-pull-requests/ .",
+            "title": "Development"
+        },
+        {
+            "location": "/contributing/#code-style",
+            "text": "We follow the code style guidelines set by Google for contributors to AOSP:  https://source.android.com/source/code-style.html  The current codebase is far from being 100% at this standard, but updating existing code to follow the unified guidelines can be a good way to introduce yourself to the codebase and start getting familiar with it.  Any new code written should follow these guidelines.",
+            "title": "Code style"
+        },
+        {
+            "location": "/contributing/#bug-reports-feature-requests",
+            "text": "We track issues and feature requests using GitHub issues. You can view existing issues and create your own here:  https://github.com/moezbhatti/qksms/issues",
+            "title": "Bug Reports / Feature Requests"
+        },
+        {
+            "location": "/contributing/#how-to-help",
+            "text": "Report bugs  Help reproduce bugs  Make enhancement requests (it would be great if QKSMS...)",
+            "title": "How to help"
+        },
+        {
+            "location": "/contributing/#reporting-bugs",
+            "text": "A great bug report contains a description of the problem and steps to reproduce the problem. We need to know what we're looking for and where to look for it. If the QKSMS team can't reproduce a bug, we will work with testers to fix the problem.  Bugs are given the red  bug  label. Bugs also may be given extra orange labels:  needs-info : We need a better description of the problem. needs-repro : We need someone who can reproduce the issue consistently. needs-review : We need someone to verify that the bug has been squashed.",
+            "title": "Reporting bugs"
+        },
+        {
+            "location": "/contributing/#example-bug-report-submission",
+            "text": "This is a real bug as of the time of writing. Try reproducing it!   ### DESCRIPTION\nConversations aren't marked as read when they are opened from a notification.\n\n### STEPS\n1. Long press on a conversation and press \"Mark as unread\" to reveal a notification.\n2. Press the home button to put QKSMS in the background.\n3. Pull down on the notification to open the notification drawer.\n4. Tap on the body of the notification (not the buttons).\n5. Tap on the back button to reveal the conversation list.\n\n### EXPECTED\nThe conversation is marked as read.\n\n### OBSERVATIONS\nThe conversation isn't marked as read.",
+            "title": "Example bug report submission"
+        },
+        {
+            "location": "/contributing/#helping-reproduce-bugs",
+            "text": "Reproducing a bug is important, since if we can't reproduce an issue then it's hard to figure out what's going wrong, and we can't know that we've fixed it.  You can see bugs which need \"repro steps\"  here . If you see any bugs that you know how to reproduce (see above for example repro steps), then make a comment with the steps and we'll track the bug down!",
+            "title": "Helping reproduce bugs"
+        },
+        {
+            "location": "/contributing/#making-enhancement-requests",
+            "text": "There are no rules for enhancement requests. Your ideas are all awesome. Although we may not implement every suggestion, we love brainstorming with you and hearing your feedback.  To make an enhancement request, add an \"issue\".",
+            "title": "Making enhancement requests"
+        },
+        {
+            "location": "/ci/",
+            "text": "Continuous Integration\n\u00b6\n\n\nTravis\n\u00b6\n\n\nhttps://docs.travis-ci.com/\n\n\nCodacy\n\u00b6\n\n\nhttps://about.sonarcloud.io/get-started/",
+            "title": "Continuous Integration"
+        },
+        {
+            "location": "/ci/#continuous-integration",
+            "text": "",
+            "title": "Continuous Integration"
+        },
+        {
+            "location": "/ci/#travis",
+            "text": "https://docs.travis-ci.com/",
+            "title": "Travis"
+        },
+        {
+            "location": "/ci/#codacy",
+            "text": "https://about.sonarcloud.io/get-started/",
+            "title": "Codacy"
+        }
+    ]
+}
