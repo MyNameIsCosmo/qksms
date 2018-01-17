@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-01-16</lastmod>
+     <lastmod>2018-01-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/contributing/</loc>
-     <lastmod>2018-01-16</lastmod>
+     <lastmod>2018-01-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,10 +21,7012 @@
         
     <url>
      <loc>/ci/</loc>
-     <lastmod>2018-01-16</lastmod>
+     <lastmod>2018-01-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+        
+    <url>
+     <loc>/qksms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/add-contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-compose/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-notification-settings/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/make-phone-call/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/-view-model-factory/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/-view-model-factory/create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/-view-model-factory/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-settings/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-default-sms-dialog/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-support/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-setup-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-navigator/show-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-menu-item-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-menu-item-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-menu-item-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-menu-item-adapter/menu-item-clicks/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common/-menu-item-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/full-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/bind-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view-model/prefs/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/dark-mode-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/is-default-sms-app/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/notifications-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/selecting-theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/max-mms-size/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/syncing/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/auto-emoji-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/mms-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/strip-unicode-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/vibration-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/split-sms-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-state/delivery-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-theme-adapter/color-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-theme-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-theme-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-theme-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-theme-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/theme-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/view-model-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/ringtone-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/render/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/preference-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/show-ringtone-picker/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/on-activity-result/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-activity/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view/theme-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view/ringtone-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view/preference-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.settings/-settings-view/show-ringtone-picker/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-object/as-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-object/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/kotlin.collections.-collection/insert-or-update/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/kotlin.collections.-collection/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/as-flowable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/map-while/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/for-each/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.database.-cursor/as-maybe/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.content.-context/make-toast/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.content.-context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.content.-context/get-color-compat/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-results/as-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-results/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/kotlin.-int/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/kotlin.-int/with-alpha/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/kotlin.-int/dp-to-px/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.widget.-edit-text/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.widget.-edit-text/show-keyboard/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.reactivex.-flowable/map-not-null/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.reactivex.-flowable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.widget.-image-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.widget.-image-view/set-tint/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-model/insert-or-update/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/io.realm.-realm-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/java.util.-calendar/is-same-day/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/java.util.-calendar/is-same-week/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/java.util.-calendar/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/java.util.-calendar/is-same-year/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.view.-view/set-margins/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.view.-view/set-padding/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.view.-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.view.-view/set-visible/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.extensions/android.view.-view/set-background-tint/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversation-item-touch-callback/on-swiped/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversation-item-touch-callback/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversation-item-touch-callback/swipes/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversation-item-touch-callback/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversation-item-touch-callback/on-move/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/date-formatter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/message-repo/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/clicks/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/are-items-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/are-contents-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/on-detached-from-recycler-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/get-item-view-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.conversations/-conversations-adapter/long-clicks/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.service/-headless-sms-send-service/on-handle-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.service/-headless-sms-send-service/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.service/-headless-sms-send-service/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.service/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common/-q-k-application/analytics/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common/-q-k-application/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common/-q-k-application/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common/-q-k-application/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-filter/filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-filter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-contact-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-contact-filter/filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-contact-filter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-recipient-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-recipient-filter/filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-recipient-filter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-phone-number-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-phone-number-filter/filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-phone-number-filter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-conversation-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-conversation-filter/filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util.filter/-conversation-filter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/finish/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/request-default-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/next-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/activity-resumed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/request-permissions/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view/skip-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-state/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view-model/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view-model/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view-model/bind-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-view-model/permissions/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/view-model-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/render/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/on-resume/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/request-default-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/next-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/activity-resumed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/request-permissions/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/-setup-activity/skip-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.setup/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/insert-received-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-unread-unseen-messages/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-delivered/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-all-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-sent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-conversation-async/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-messages/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-conversations/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/delete-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/get-or-create-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-delivery-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/insert-sent-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/delete-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-unarchived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-message-repository/mark-read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/get-unmanaged-contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/find-contact-uri/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.repository/-contact-repository/get-contact-blocking/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-component/inject/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-component/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-module/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-module/provide-context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-module/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-module/provide-analytics/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.di/-app-module/provide-rx-preferences/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-edit-text/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-edit-text/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-edit-text/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-edit-text/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-preference-view/summary/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-preference-view/title/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-preference-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-preference-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-text-view/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-text-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-text-view/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-text-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-tight-text-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-tight-text-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-tight-text-view/on-measure/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-switch/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-switch/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-switch/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-qk-switch/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-group-avatar-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-group-avatar-view/contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-group-avatar-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-group-avatar-view/on-finish-inflate/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-avatar-view/on-finish-inflate/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-separator/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-separator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-separator/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-separator/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-mms-preview-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-mms-preview-view/parts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.widget/-mms-preview-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/on-detached-from-recycler-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-attachment-adapter/attachment-deleted/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/set-contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/show/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/set-on-delete-listener/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-detailed-chip-view/hide/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-touch-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-create-panel-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-prepare-panel/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-window-starting-action-mode/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-populate-accessibility-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-trackball-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-key-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-menu-opened/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-action-mode-started/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-menu-item-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-attached-to-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-window-focus-changed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-search-requested/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-window-attributes-changed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-create-panel-menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-key-shortcut-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-content-changed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/dispatch-generic-motion-event/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-detached-from-window/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-action-mode-finished/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-window-callback/on-panel-closed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/mark-archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/message-repo/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/delete-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/send-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/contact-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/contacts-repo/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/delete-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/bind-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/sync-contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/mark-unarchived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view-model/mark-read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/can-send/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/title/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/contacts-visible/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/attachments/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/has-error/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/messages/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/selected-contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/editing-mode/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-state/archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/archive-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/text-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/activity-visible-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/call-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/menu-ready-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/delete-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/forward-message-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/copy-text-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/send-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/attachment-deleted-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/set-draft/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/chip-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/chip-deleted-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/attach-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/delete-message-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-view/query-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/on-create-options-menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/on-start/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/attachment-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/view-model-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/chips-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/message-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/archive-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/text-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/contacts-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/activity-visible-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/render/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/call-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/menu-ready-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/delete-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/on-options-item-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/forward-message-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/copy-text-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/on-pause/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/send-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/attachment-deleted-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/set-draft/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/chip-selected-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/chip-deleted-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/attach-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/delete-message-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-compose-activity/query-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/text-changes/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/are-items-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/chip-deleted/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/get-item-count/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/on-dataset-changed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/get-item-view-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-chips-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/contact-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/are-items-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-contact-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/on-bind-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/on-detached-from-recycler-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/get-item-view-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/on-create-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.compose/-messages-adapter/long-clicks/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-sms-receiver/receive-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-sms-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-sms-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-sms-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-updated-receiver/sync-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-updated-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-updated-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-updated-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-updated-receiver/-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-sent-receiver/mark-sent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-sent-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-sent-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-sent-receiver/mark-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-sent-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-default-sms-changed-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-default-sms-changed-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-default-sms-changed-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-default-sms-changed-receiver/prefs/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-default-sms-changed-receiver/partial-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-delivered-receiver/mark-delivered/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-delivered-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-delivered-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-delivered-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-message-delivered-receiver/mark-delivery-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-seen-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-seen-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-seen-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-seen-receiver/mark-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-sent-receiver/sync-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-sent-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-sent-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-sent-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-received-receiver/receive-mms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-received-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-received-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mms-received-receiver/on-message-received/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-remote-messaging-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-remote-messaging-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-remote-messaging-receiver/send-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-remote-messaging-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-remote-messaging-receiver/mark-read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-read-receiver/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-read-receiver/on-receive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-read-receiver/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.receiver/-mark-read-receiver/mark-read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-message-utils/extract-addr-spec/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-message-utils/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-message-utils/-n-a-m-e_-a-d-d-r_-e-m-a-i-l_-p-a-t-t-e-r-n/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-message-utils/is-email-address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-keys/reset/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-keys/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-keys/new-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-keys/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-analytics-impl/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-analytics-impl/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-analytics-impl/track/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/sync-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/perform-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-status/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-status/-running/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-status/-running/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-status/-idle/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-sync-manager/-status/-idle/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/get-timestamp/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/get-conversation-timestamp/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-date-formatter/get-message-timestamp/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-glide-app-module/apply-options/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-glide-app-module/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-glide-app-module/register-components/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-glide-app-module/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-optional/not-null/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-optional/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-optional/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-optional/value/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-permissions/has-sms-and-contacts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-permissions/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-permissions/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-live-realm-data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-live-realm-data/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-live-realm-data/on-inactive/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-live-realm-data/on-active/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-analytics/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-analytics/track/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/handles/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-key/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-key/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-key/update-disk-cache-key/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/load-data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/cleanup/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/get-data-source/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/contact-repo/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/cancel/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-contact-image-fetcher/get-data-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-factory/build/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-factory/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-factory/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-factory/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/-factory/teardown/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-contact-image-loader/build-load-data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/mms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/ringtone/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/vibration/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/mms-size/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/unicode/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/dark/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/notifications/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/auto-emoji/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/default-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-preferences/delivery/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-primary-on-theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/separator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/status-bar-icons/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/bubble/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-primary/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/switch-thumb-disabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/toolbar-color/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/background/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/switch-track-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/status-bar/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/app-theme-resources/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/popup-theme-resource/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-tertiary/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-secondary-on-theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/switch-thumb-enabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/compose-background/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/switch-track-disabled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/field/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-tertiary-on-theme/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-colors/text-secondary/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-clipboard-utils/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-clipboard-utils/copy/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-notification-manager/update/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-notification-manager/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-notification-manager/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-notification-manager/-v-i-b-r-a-t-e_-p-a-t-t-e-r-n/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/common.util/-notification-manager/-d-e-f-a-u-l-t_-c-h-a-n-n-e-l_-i-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/on-create-options-menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/view-model-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/clear-search/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/swipe-conversation-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/menu-item-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/undo-swipe-conversation-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/render/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/drawer-item-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/item-touch-callback/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/on-options-item-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/conversation-menu-item-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/conversation-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/drawer-open-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/conversations-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/query-cancelled-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/query-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/conversation-long-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-activity/compose-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/show-clear-button/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/show-archived-snackbar/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-inbox/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-state/syncing/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-state/page/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-state/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-state/drawer-open/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-archived/menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-archived/data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-archived/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-scheduled/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-scheduled/data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-scheduled/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/conversation-filter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/mark-all-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/mark-archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/message-repo/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/context/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/navigator/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/delete-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/bind-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/partial-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view-model/mark-unarchived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-blocked/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-blocked/data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-blocked/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-i-n-b-o-x/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-h-e-l-p/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-a-r-c-h-i-v-e-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-b-l-o-c-k-e-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-s-e-t-t-i-n-g-s/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-drawer-item/-s-c-h-e-d-u-l-e-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/clear-search/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/swipe-conversation-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/undo-swipe-conversation-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/drawer-item-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/conversation-menu-item-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/conversation-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/drawer-open-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/query-cancelled-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/query-changed-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/conversation-long-click-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-view/compose-intent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.feature.main/-main-page/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/alltypes/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-sync-log/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-sync-log/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-sync-log/date/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/last-update/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-recipient/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-phone-number/type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-phone-number/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-phone-number/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-phone-number/address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/get-title/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/recipients/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-conversation/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/lookup-key/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/name/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/numbers/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-contact/last-update/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-menu-item/title/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-menu-item/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-menu-item/action-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-menu-item/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/image/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/message-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/text/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/is-text/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/is-smil/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-mms-part/is-image/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/text-content-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-sending/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/content-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-delivered/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/box-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/delivery-status/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/subject/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/get-uri/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/mms-delivery-status-string/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/message-size/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/get-summary/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/body/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-failed-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/parts/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/error-code/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/attachment-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/get-text/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-me/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-s-l-i-d-e-s-h-o-w/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-a-u-d-i-o/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-i-m-a-g-e/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-n-o-t_-l-o-a-d-e-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-t-e-x-t/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/-attachment-type/-v-i-d-e-o/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-mms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/message-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/date-sent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/date/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/read-report-string/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/thread-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/locked/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/mms-status/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/is-outgoing-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/error-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-message/attachment-type-string/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-inbox-item/message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-inbox-item/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-inbox-item/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.model/-inbox-item/conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-part/-c-o-n-t-e-n-t_-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-part/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-part/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-part/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/-r-e-c-i-p-i-e-n-t_-i-d-s/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/-i-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/-p-r-o-j-e-c-t-i-o-n/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-conversation/-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/-c-o-l-u-m-n_-i-d/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/-c-o-l-u-m-n_-a-d-d-r-e-s-s/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-recipient/-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-mapper/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-mapper/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-c-o-l-u-m-n_-n-u-m-b-e-r/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-c-o-l-u-m-n_-t-y-p-e/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-p-r-o-j-e-c-t-i-o-n/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-c-o-l-u-m-n_-l-o-o-k-u-p_-k-e-y/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-c-o-l-u-m-n_-d-i-s-p-l-a-y_-n-a-m-e/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-contact/-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-p-r-o-j-e-c-t-i-o-n/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/map/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-message-box/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-error-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-body/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-subject/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-error-code/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-message-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-address/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/msg-type/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-subject-charset/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-read-report/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/sms-status/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/msg-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/date-sent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/date/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-delivery-report/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/thread-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/locked/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-message-columns/mms-status/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/data.mapper/-cursor-to-message/-u-r-i/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-sync-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-sync-message/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-sync-message/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-full-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-full-sync/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-full-sync/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-seen/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-seen/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-partial-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-partial-sync/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-partial-sync/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-all-seen/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-all-seen/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-all-seen/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-unarchived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-unarchived/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-unarchived/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-mms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-mms/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-mms/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-sent/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-sent/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-sent/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-archived/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-archived/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-archived/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/-params/result-code/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/-params/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/-params/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/-params/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-failed/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-sms/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-sms/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-receive-sms/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/dispose/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/execute/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-interactor/is-disposed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/addresses/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/body/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/attachments/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/-params/thread-id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-send-message/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/-params/result-code/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/-params/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/-params/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/-params/id/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivery-failed/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-conversation/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-conversation/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-conversation/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-read/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-read/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-read/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-message/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-message/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-delete-message/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivered/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivered/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-mark-delivered/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-contact-sync/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-contact-sync/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/interactor/-contact-sync/build-observable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/on-create-options-menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/set-title/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/view-model-class/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/on-post-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/menu/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/on-options-item-selected/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/colors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/set-content-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-activity/on-create/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-flowable-adapter/on-attached-to-recycler-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-flowable-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-flowable-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-flowable-adapter/on-detached-from-recycler-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-flowable-adapter/flowable/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/on-cleared/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/disposables/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/new-state/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-model/bind-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-holder/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view-holder/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view/render/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-view/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/are-items-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/data/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/-init-/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/get-item-count/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/are-contents-the-same/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/get-item/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/qksms/presentation.common.base/-qk-adapter/on-dataset-changed/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>

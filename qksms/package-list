@@ -1,0 +1,44 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+$dokka.location:common.util.extensions$asFlowable(android.database.Cursor)common.util.extensions/android.database.-cursor/as-flowable.md
+$dokka.location:common.util.extensions$asMaybe(android.database.Cursor)common.util.extensions/android.database.-cursor/as-maybe.md
+$dokka.location:common.util.extensions$asObservable(io.realm.RealmObject)common.util.extensions/io.realm.-realm-object/as-observable.md
+$dokka.location:common.util.extensions$asObservable(io.realm.RealmResults((common.util.extensions.asObservable.T)))common.util.extensions/io.realm.-realm-results/as-observable.md
+$dokka.location:common.util.extensions$dpToPx(kotlin.Int, android.content.Context)common.util.extensions/kotlin.-int/dp-to-px.md
+$dokka.location:common.util.extensions$forEach(android.database.Cursor, kotlin.Boolean, kotlin.Function1((android.database.Cursor, kotlin.Unit)))common.util.extensions/android.database.-cursor/for-each.md
+$dokka.location:common.util.extensions$getColorCompat(android.content.Context, kotlin.Int)common.util.extensions/android.content.-context/get-color-compat.md
+$dokka.location:common.util.extensions$insertOrUpdate(io.realm.RealmModel)common.util.extensions/io.realm.-realm-model/insert-or-update.md
+$dokka.location:common.util.extensions$insertOrUpdate(kotlin.collections.Collection((common.util.extensions.insertOrUpdate.T)))common.util.extensions/kotlin.collections.-collection/insert-or-update.md
+$dokka.location:common.util.extensions$isSameDay(java.util.Calendar, java.util.Calendar)common.util.extensions/java.util.-calendar/is-same-day.md
+$dokka.location:common.util.extensions$isSameWeek(java.util.Calendar, java.util.Calendar)common.util.extensions/java.util.-calendar/is-same-week.md
+$dokka.location:common.util.extensions$isSameYear(java.util.Calendar, java.util.Calendar)common.util.extensions/java.util.-calendar/is-same-year.md
+$dokka.location:common.util.extensions$makeToast(android.content.Context, kotlin.Int, kotlin.Int)common.util.extensions/android.content.-context/make-toast.md
+$dokka.location:common.util.extensions$map(android.database.Cursor, kotlin.Function1((android.database.Cursor, common.util.extensions.map.T)))common.util.extensions/android.database.-cursor/map.md
+$dokka.location:common.util.extensions$mapNotNull(io.reactivex.Flowable((common.util.extensions.mapNotNull.T)), kotlin.Function1((common.util.extensions.mapNotNull.T, common.util.extensions.mapNotNull.R)))common.util.extensions/io.reactivex.-flowable/map-not-null.md
+$dokka.location:common.util.extensions$mapWhile(android.database.Cursor, kotlin.Function1((android.database.Cursor, common.util.extensions.mapWhile.T)), kotlin.Function1((common.util.extensions.mapWhile.T, kotlin.Boolean)))common.util.extensions/android.database.-cursor/map-while.md
+$dokka.location:common.util.extensions$setBackgroundTint(android.view.View, kotlin.Int)common.util.extensions/android.view.-view/set-background-tint.md
+$dokka.location:common.util.extensions$setMargins(android.view.View, kotlin.Int, kotlin.Int, kotlin.Int, kotlin.Int)common.util.extensions/android.view.-view/set-margins.md
+$dokka.location:common.util.extensions$setPadding(android.view.View, kotlin.Int, kotlin.Int, kotlin.Int, kotlin.Int)common.util.extensions/android.view.-view/set-padding.md
+$dokka.location:common.util.extensions$setTint(android.widget.ImageView, kotlin.Int)common.util.extensions/android.widget.-image-view/set-tint.md
+$dokka.location:common.util.extensions$setVisible(android.view.View, kotlin.Boolean, kotlin.Int)common.util.extensions/android.view.-view/set-visible.md
+$dokka.location:common.util.extensions$showKeyboard(android.widget.EditText)common.util.extensions/android.widget.-edit-text/show-keyboard.md
+$dokka.location:common.util.extensions$withAlpha(kotlin.Int, kotlin.Int)common.util.extensions/kotlin.-int/with-alpha.md
+common
+common.di
+common.util
+common.util.extensions
+common.util.filter
+data.mapper
+data.model
+data.repository
+interactor
+presentation.common
+presentation.common.base
+presentation.common.widget
+presentation.feature.compose
+presentation.feature.conversations
+presentation.feature.main
+presentation.feature.settings
+presentation.feature.setup
+presentation.receiver
+presentation.service
